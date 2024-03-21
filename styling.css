@@ -1,0 +1,28 @@
+.resumebody {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(10, 28, 82);
+    background-color:#ebedf2 ;
+}
+header {
+    text-align: center;
+    background-color: burlywood;
+}
+li {font-size: 30px;
+    color: black;
+    text-align: center;
+
+}
+
+.topnav {
+    overflow:auto;
+    background-color: rgb(120, 160, 245);
+}
+
+.topnav a{
+    float: right;
+    color: blue;
+    padding: 14px 16px;
+    text-decoration: underline;
+    font-size: 17px;
+}
